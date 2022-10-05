@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ecured.cu/images/thumb/2/29/Mi_vida_a_los_diecisiete.jpg/300px-Mi_vida_a_los_diecisiete.jpg" group-title="Comedia",Mi Vida a los 17
@@ -364,6 +365,30 @@ https://archive.org/download/lost_20210828/LOST%20%28S02E24%29%20-%20Vivir%20Jun
 https://archive.org/download/el-telefono-negro/El Telefono Negro.mp4
 #EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7ZLdzwRDQ7Walku7bNKq0J3nbjwlShtCdMAaDzyGox88YGlOg" group-title="Terror",El Telefono Negro HD
 https://archive.org/download/el-telefono-negro-2022/El teléfono negro (2022).mp4
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://image.multimedios.com/sites/all/themes/multimedioslaguna/images/img_default_fb_c6.png" group-title="Television",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="Television",Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/1200px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Deportes",NJPW WORLD
+https://aka-amd-njpwworld-hls-live.akamaized.net/hls/video/njpw/njpw_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Television",WOW TV El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_UmtJYdhtsarDtlT2zSjP_1CEz4NvQ92gCk7aWYg=s900-c-k-c0x00ffffff-no-rj" group-title="Television",TVP Cd Obregon Mexico
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_UmtJYdhtsarDtlT2zSjP_1CEz4NvQ92gCk7aWYg=s900-c-k-c0x00ffffff-no-rj" group-title="Television",TVP Mazatlan Mexico
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_UmtJYdhtsarDtlT2zSjP_1CEz4NvQ92gCk7aWYg=s900-c-k-c0x00ffffff-no-rj" group-title="Television",TVP Culiacan Mexico
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_UmtJYdhtsarDtlT2zSjP_1CEz4NvQ92gCk7aWYg=s900-c-k-c0x00ffffff-no-rj" group-title="Television",TVP Los Mochis Mexico
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="Television",Central TV Perú 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Television",Canal BHtv Peru
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/logo_rcg.png?itok=jrLVjPzh" group-title="Television",RCG 2 Mexico
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-logo="https://ewsat.com/img/UNICANAL.png" group-title="Television",Unicanal Paraguay
+http://45.55.127.106/live/unicanal_src.m3u8
 
 
 
